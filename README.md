@@ -1,1 +1,1 @@
-### 4.980.000+ bots audience 📈
+### 5.330.000+ bots audience 📈
