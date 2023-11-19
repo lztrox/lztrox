@@ -2,6 +2,8 @@
 
 ⌈ <b>👑 Creator of the world first automatic tg post&comments cloner
 
+| <b>👑 Creator of the best influencers token sniper for friend.tech
+
 | <b>👯 I’m looking to collaborate with - </b>someone who wants to make this world a better place
 
 | <b>📝 Specialization - </b>BackEnd developer; Road to FullStack
