@@ -10,14 +10,15 @@
 ---
 - ⚙️ I use daily - `Python`, `SQLAlchemy`, `Asyncio`
 - Languages - `English`, `Russian`, `French`
-- 🐎 In spare time i'm equestrian rider
+- In spare time i'm equestrian rider 🐎
 - Contact me - [lztrox.t.me](https://lztrox.t.me/)
 
 <div align="center">
   <details>
     <summary>Don't open this spoiler</summary>
-  I warned u. Rickrolled.
-  <img src="https://media1.tenor.com/m/tcsRoMh4k9IAAAAd/nice.gif" alt="rick roll"/>
+    I warned u. Rickrolled.
+    <br>
+    <img src="https://media1.tenor.com/m/tcsRoMh4k9IAAAAd/nice.gif" alt="rick roll"/>
   </details>
   <img src="https://github.com/lztrox/lztrox/blob/output/snake.svg" alt="Snake animation"/>
 </div>
